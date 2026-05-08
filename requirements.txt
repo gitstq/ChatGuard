@@ -1,0 +1,12 @@
+# ChatGuard 依赖文件
+# 生产依赖
+
+# 无外部依赖 - 纯Python标准库实现
+# Python >= 3.8
+
+# 可选依赖（用于开发）
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
